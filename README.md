@@ -56,3 +56,4 @@
     ```
 
 - Access the Django admin interface at `http://127.0.0.1:8000/admin/` (default credentials may apply).
+- Access the API endpoints at `http://127.0.0.1:8000/api/`.
