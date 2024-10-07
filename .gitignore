@@ -1,0 +1,6 @@
+.venv
+.DS_Store
+online_store/db.sqlite3
+online_store/.pytest_cache
+online_store/online_store/__pycache__
+online_store/order_management/__pycache__
